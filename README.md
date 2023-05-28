@@ -99,7 +99,7 @@ MIT License
 
 The MIT License is a permissive open source license that allows you to use, modify, and distribute this project for any purpose, as long as you include the original copyright notice and disclaimer. It provides you with the freedom to use the code in personal or commercial projects without requiring any additional permissions or fees.
 
-For more information, please refer to the LEICENSE file.
+For more information, please refer to the License file.
 
 
 
